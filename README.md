@@ -1,2 +1,3 @@
 # JuniperCRM
-# test de commit
+
+Programa de CRM da JuniperSoft test
