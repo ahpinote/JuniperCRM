@@ -1,3 +1,3 @@
 # JuniperCRM
 
-hattrick test de commit \
+Programa de CRM da JuniperSoft
