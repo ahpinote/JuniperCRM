@@ -1,4 +1,4 @@
 # JuniperCRM
 
 
-Programa de CRM da JuniperSoft test
+Programa de CRM da JuniperSoft
